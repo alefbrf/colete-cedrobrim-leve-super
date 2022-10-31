@@ -456,6 +456,24 @@ border-bottom:1px solid #919191;
   .deletebase {
     display: none;
 }
+.uploader {
+    margin-left: 1135px;
+}
+.cores, .coresb, .coresGE, .coresGI, .coresP, .coresVE, .coresVD, .coresBF, .coresBB {
+    left: 1060px;
+}
+.costas {
+    margin-left: -40px;
+}
+.social_masculino {
+    padding-left: 330px;
+}
+.acabamentos {
+    height: 435px;
+}
+.download {
+    margin-top: 515px;
+}
 /*-------------------------------------------------------------------------------------------------------------*/
 /*-------------------------------------------------------------------------------------------------------------*/
 /*----------------------------------------Responsividade-------------------------------------------------------*/
